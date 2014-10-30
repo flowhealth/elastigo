@@ -14,7 +14,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	elastigo "github.com/mattbaird/elastigo/lib"
+	elastigo "github.com/flowhealth/elastigo/lib"
 	"log"
 	"os"
 )
